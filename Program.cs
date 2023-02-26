@@ -16,6 +16,7 @@
                     else
                         Console.Write(" ");
                 }
+
                 Console.WriteLine();
             }
         }
